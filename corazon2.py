@@ -25,6 +25,7 @@ t.goto(-90,130)
 t.pendown()
 t.color("white")
 t.write("Te amo mucho Levito ;3", front=("Verdana",25,"bold"))
+#write(header_text, align="left", font=("Arial", 12, "normal"))
 
 t.penup()
 t.goto(-50,90)
